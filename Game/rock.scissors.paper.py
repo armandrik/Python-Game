@@ -1,5 +1,4 @@
 #rock , paper , scissors
-#lower() : horof bozorg va kochik eror nemide
 #with for : for time in range(0,3)
 import random
 print('rock')
